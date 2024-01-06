@@ -23,7 +23,6 @@
 
 	let vx = document.getElementsByClassName("post-contents") && document.getElementsByClassName("post-contents")[0];
 	vx && vx.children  && vx.children[0] && vx.children[0] && (() => {
-	console.log("Z");
 	vx.children[0].style.height = "unset" ;
 	vx.children[0].style.overflow = "unset";
 	})(); 
