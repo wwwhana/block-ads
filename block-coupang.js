@@ -8,6 +8,7 @@
 
 // @run-at document-end
 // @downloadURL  https://raw.githubusercontent.com/wwwhana/block-ads/main/block-coupang.js
+// @updateURL https://raw.githubusercontent.com/wwwhana/block-ads/main/block-coupang.js
 // ==/UserScript==
 
 (function(){
