@@ -7,7 +7,7 @@
 // @match https://ggul.zal.kr/*
 
 // @run-at document-end
-// @downloadURL  https://gist.github.com/wwwhana/39de5cc2a9ea2b4169e9e8c79ab717c8
+// @downloadURL  https://raw.githubusercontent.com/wwwhana/block-ads/main/block-coupang.js
 // ==/UserScript==
 
 (function(){
