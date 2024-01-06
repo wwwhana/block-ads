@@ -4,3 +4,4 @@ humor-pangi.reviewtoday.net###__next div[class^="Post_continue_coupang"]
 humor-pangi.reviewtoday.net###__next a[href*="s.click.aliexpress.com/"]
 humor-pangi.reviewtoday.net###modal
 ggul.zal.kr###inner-content-body > div.partners-inside
+humor-pangi.reviewtoday.net###__next a.post-coupas-banner
