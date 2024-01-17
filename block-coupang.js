@@ -14,9 +14,7 @@
 
 (function () {
   "use strict";
-
-console.log("X1");
-
+	
   let v =
     document.getElementById("bo_v_atc") ||
     document.getElementById("inner-content-body");
@@ -31,7 +29,6 @@ console.log("X1");
   let vx = document.getElementsByClassName("post-contents");
   vx.length &&
     (() => {
-console.log("X");
       vx = vx[0];
 
       if (!vx.children && vx.children[0] && vx.children[0]) return;
