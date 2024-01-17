@@ -2,7 +2,7 @@
 // @name block coupang article ad
 // @name:ko 쿠팡 납치글 무효화
 // @description:ko 웹 페이지에서 쿠팡 페이지를 봐야만 컨텐츠를 표시하는 사이트를 무효화합니다.
-// @version 0.0.3
+// @version 0.0.4
 // @match *://ggul.zal.kr/*
 // @match https://*.reviewtoday.net/*
 
