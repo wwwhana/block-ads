@@ -1,9 +1,9 @@
 ||ggul.zal.kr/system/analysis.php
-humor-pangi.reviewtoday.net###__next div.mt-4.mb-4.text-center.md\:mt-16.h-80.md\:h-88
-humor-pangi.reviewtoday.net###__next div[class^="Post_continue_coupang"]
-humor-pangi.reviewtoday.net###__next a[href*="s.click.aliexpress.com/"]
-humor-pangi.reviewtoday.net###modal
-humor-pangi.reviewtoday.net###__next a.post-coupas-banner
+*.reviewtoday.net###__next div.mt-4.mb-4.text-center.md\:mt-16.h-80.md\:h-88
+*.reviewtoday.net###__next div[class^="Post_continue_coupang"]
+*.reviewtoday.net###__next a[href*="s.click.aliexpress.com/"]
+*.reviewtoday.net###modal
+*.reviewtoday.net###__next a.post-coupas-banner
 ggul.zal.kr###inner-content-body > div.partners-inside
 m.newspic.kr##iframe[className*="naver-shoppingbox"]
 m.newspic.kr##div.coupang_wrap
