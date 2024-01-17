@@ -4,6 +4,7 @@
 *.reviewtoday.net###__next a[href*="s.click.aliexpress.com/"]
 *.reviewtoday.net###modal
 *.reviewtoday.net###__next a.post-coupas-banner
+*.reviewtoday.net##div.post-coupas-slide-banner-after
 ggul.zal.kr###inner-content-body > div.partners-inside
 m.newspic.kr##iframe[className*="naver-shoppingbox"]
 m.newspic.kr##div.coupang_wrap
