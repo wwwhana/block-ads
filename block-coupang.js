@@ -4,9 +4,10 @@
 // @description:ko 웹 페이지에서 쿠팡 페이지를 봐야만 컨텐츠를 표시하는 사이트를 무효화합니다.
 // @version 0.0.3
 // @match *://ggul.zal.kr/*
-// @match *://humor-pangi.reviewtoday.net/*
+// @match https://*.reviewtoday.net/*
 
 // @run-at document-idle
+// @homepage	https://github.com/wwwhana/block-ads
 // @downloadURL  https://raw.githubusercontent.com/wwwhana/block-ads/main/block-coupang.js
 // @updateURL https://raw.githubusercontent.com/wwwhana/block-ads/main/block-coupang.js
 // ==/UserScript==
@@ -14,6 +15,7 @@
 (function () {
   "use strict";
 
+console.log("X1");
 
   let v =
     document.getElementById("bo_v_atc") ||
@@ -29,6 +31,7 @@
   let vx = document.getElementsByClassName("post-contents");
   vx.length &&
     (() => {
+console.log("X");
       vx = vx[0];
 
       if (!vx.children && vx.children[0] && vx.children[0]) return;
